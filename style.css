@@ -67,6 +67,7 @@ body {
     position: relative;
     overflow: hidden;
     z-index: 7;
+    user-select: none;
 }
 
 .input button::before{
