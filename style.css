@@ -1,24 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 body {
     width: 100%;
     height: 100vh;
-    background-color: #7eda53;
+    color: #333;
+    background-color: #f0f4f8;
 }
-
+/* 
 .navbar{
     width: 100%;
     background-color: #fff;
     display: flex;
     justify-content: space-around;
     /* position: absolute; */
-    align-items: center;
-}
+    /* align-items: center;
+} */
 
 .container {
     width: 100%;
@@ -85,7 +89,7 @@ body {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color: #7eda53;
+    background-color: 	#8a8cff;
     top: 100%;
     left: 0px;
     border-radius: 60%;
@@ -127,7 +131,7 @@ body {
 
 .left-side .lists {
     width: 90%;
-    background-color: #7eda53;
+    background-color: 	#8a8cff;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
