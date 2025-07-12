@@ -14,15 +14,10 @@ body {
     color: #333;
     background-color: #f0f4f8;
 }
-/* 
-.navbar{
-    width: 100%;
-    background-color: #fff;
-    display: flex;
-    justify-content: space-around;
-    /* position: absolute; */
-    /* align-items: center;
-} */
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
 
 .container {
     width: 100%;
